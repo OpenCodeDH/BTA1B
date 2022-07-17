@@ -1,0 +1,1 @@
+[{"username":"admin","password":"abc.12345","fullName":"Huynh Hoai Nam", "address": "Kon Tum","gender": "Nam"}]

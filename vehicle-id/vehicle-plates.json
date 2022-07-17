@@ -1,0 +1,319 @@
+{
+  "vehiclePlates": [
+    {
+      "id": "1",
+      "text": "Cao Bằng",
+      "vehiclePlateNumber": "11"
+    },
+    {
+      "id": "2",
+      "text": "Lạng Sơn",
+      "vehiclePlateNumber": "12"
+    },
+    {
+      "id": "3",
+      "text": "Quảng Ninh",
+      "vehiclePlateNumber": "14"
+    },
+    {
+      "id": "4",
+      "text": "Hải Phòng",
+      "vehiclePlateNumber": "15-16"
+    },
+    {
+      "id": "5",
+      "text": "Thái Bình",
+      "vehiclePlateNumber": "17"
+    },
+    {
+      "id": "6",
+      "text": "Nam Định",
+      "vehiclePlateNumber": "18"
+    },
+    {
+      "id": "7",
+      "text": "Phú Thọ",
+      "vehiclePlateNumber": "19"
+    },
+    {
+      "id": "8",
+      "text": "Thái Nguyên",
+      "vehiclePlateNumber": "20"
+    },
+    {
+      "id": "9",
+      "text": "Yên Bái",
+      "vehiclePlateNumber": "21"
+    },
+    {
+      "id": "10",
+      "text": "Tuyên Quang",
+      "vehiclePlateNumber": "22"
+    },
+    {
+      "id": "11",
+      "text": "Hà Giang",
+      "vehiclePlateNumber": "23"
+    },
+    {
+      "id": "12",
+      "text": "Lào Cai",
+      "vehiclePlateNumber": "24"
+    },
+    {
+      "id": "13",
+      "text": "Lai Châu",
+      "vehiclePlateNumber": "25"
+    },
+    {
+      "id": "14",
+      "text": "Sơn La",
+      "vehiclePlateNumber": "26"
+    },
+    {
+      "id": "15",
+      "text": "Điện Biên",
+      "vehiclePlateNumber": "27"
+    },
+    {
+      "id": "16",
+      "text": "Hòa Bình",
+      "vehiclePlateNumber": "28"
+    },
+    {
+      "id": "17",
+      "text": "Hà Nội",
+      "vehiclePlateNumber": "29-33,40"
+    },
+    {
+      "id": "18",
+      "text": "Hải Dương",
+      "vehiclePlateNumber": "34"
+    },
+    {
+      "id": "19",
+      "text": "Ninh Bình",
+      "vehiclePlateNumber": "35"
+    },
+    {
+      "id": "20",
+      "text": "Thanh Hóa",
+      "vehiclePlateNumber": "36"
+    },
+    {
+      "id": "21",
+      "text": "Nghệ An",
+      "vehiclePlateNumber": "37"
+    },
+    {
+      "id": "22",
+      "text": "Hà Tĩnh",
+      "vehiclePlateNumber": "38"
+    },
+    {
+      "id": "23",
+      "text": "TP. Đà Nẵng",
+      "vehiclePlateNumber": "43"
+    },
+    {
+      "id": "24",
+      "text": "Đắk Lắk",
+      "vehiclePlateNumber": "47"
+    },
+    {
+      "id": "25",
+      "text": "Đắk Nông",
+      "vehiclePlateNumber": "48"
+    },
+    {
+      "id": "26",
+      "text": "Lâm Đồng",
+      "vehiclePlateNumber": "49"
+    },
+    {
+      "id": "27",
+      "text": "TP. Hồ Chí Minh",
+      "vehiclePlateNumber": "50-59"
+    },
+    {
+      "id": "28",
+      "text": "Đồng Nai",
+      "vehiclePlateNumber": "39,60"
+    },
+    {
+      "id": "29",
+      "text": "Bình Dương",
+      "vehiclePlateNumber": "61"
+    },
+    {
+      "id": "30",
+      "text": "Long An",
+      "vehiclePlateNumber": "62"
+    },
+    {
+      "id": "31",
+      "text": "Tiền Giang",
+      "vehiclePlateNumber": "63"
+    },
+    {
+      "id": "32",
+      "text": "Vĩnh Long",
+      "vehiclePlateNumber": "64"
+    },
+    {
+      "id": "33",
+      "text": "Cần Thơ",
+      "vehiclePlateNumber": "65"
+    },
+    {
+      "id": "34",
+      "text": "Đồng Tháp",
+      "vehiclePlateNumber": "66"
+    },
+    {
+      "id": "35",
+      "text": "An Giang",
+      "vehiclePlateNumber": "67"
+    },
+    {
+      "id": "36",
+      "text": "Kiên Giang",
+      "vehiclePlateNumber": "68"
+    },
+    {
+      "id": "37",
+      "text": "Cà Mau",
+      "vehiclePlateNumber": "69"
+    },
+    {
+      "id": "38",
+      "text": "Tây Ninh",
+      "vehiclePlateNumber": "70"
+    },
+    {
+      "id": "39",
+      "text": "Bến Tre",
+      "vehiclePlateNumber": "71"
+    },
+    {
+      "id": "40",
+      "text": "Bà Rịa - Vũng Tàu",
+      "vehiclePlateNumber": "72"
+    },
+    {
+      "id": "41",
+      "text": "Quảng Bình",
+      "vehiclePlateNumber": "73"
+    },
+    {
+      "id": "42",
+      "text": "Quảng Trị",
+      "vehiclePlateNumber": "74"
+    },
+    {
+      "id": "43",
+      "text": "Thừa Thiên Huế",
+      "vehiclePlateNumber": "75"
+    },
+    {
+      "id": "44",
+      "text": "Quảng Ngãi",
+      "vehiclePlateNumber": "76"
+    },
+    {
+      "id": "45",
+      "text": "Bình Định",
+      "vehiclePlateNumber": "77"
+    },
+    {
+      "id": "46",
+      "text": "Phú Yên",
+      "vehiclePlateNumber": "78"
+    },
+    {
+      "id": "47",
+      "text": "Khánh Hòa",
+      "vehiclePlateNumber": "79"
+    },
+    {
+      "id": "48",
+      "text": "Gia Lai",
+      "vehiclePlateNumber": "81"
+    },
+    {
+      "id": "49",
+      "text": "Kon Tum",
+      "vehiclePlateNumber": "82"
+    },
+    {
+      "id": "50",
+      "text": "Sóc Trăng",
+      "vehiclePlateNumber": "83"
+    },
+    {
+      "id": "51",
+      "text": "Trà Vinh",
+      "vehiclePlateNumber": "84"
+    },
+    {
+      "id": "52",
+      "text": "Ninh Thuận",
+      "vehiclePlateNumber": "85"
+    },
+    {
+      "id": "53",
+      "text": "Bình Thuận",
+      "vehiclePlateNumber": "86"
+    },
+    {
+      "id": "54",
+      "text": "Vĩnh Phúc",
+      "vehiclePlateNumber": "88"
+    },
+    {
+      "id": "55",
+      "text": "Hưng Yên",
+      "vehiclePlateNumber": "89"
+    },
+    {
+      "id": "56",
+      "text": "Hà Nam",
+      "vehiclePlateNumber": "90"
+    },
+    {
+      "id": "57",
+      "text": "Quảng Nam",
+      "vehiclePlateNumber": "92"
+    },
+    {
+      "id": "58",
+      "text": "Bình Phước",
+      "vehiclePlateNumber": "93"
+    },
+    {
+      "id": "59",
+      "text": "Bạc Liêu",
+      "vehiclePlateNumber": "94"
+    },
+    {
+      "id": "60",
+      "text": "Hậu Giang",
+      "vehiclePlateNumber": "95"
+    },
+    {
+      "id": "61",
+      "text": "Bắc Cạn",
+      "vehiclePlateNumber": "97"
+    },
+    {
+      "id": "62",
+      "text": "Bắc Giang",
+      "vehiclePlateNumber": "98"
+    },
+    {
+      "id": "63",
+      "text": "Bắc Ninh",
+      "vehiclePlateNumber": "99"
+    }
+  ]
+}
